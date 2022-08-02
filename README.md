@@ -2,6 +2,8 @@
 	<img width="400" src="./assets/FightingAwesome.svg" alt="Awesome FightingDesign">
 </div>
 
+# clone in FightingDesign / awesome
+
 # Fighting Awesome
 
 💡 令人惊叹的一些前端资源、工具包等汇总。
